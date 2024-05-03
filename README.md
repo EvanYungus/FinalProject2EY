@@ -1,1 +1,2 @@
 # FinalProject2EY
+#my project is an interactive map and graph application made in rshiny. It is meant as an introductory exploration tool for people looking into social science aswell as a data visualization tool for users to view information about various continents, such as indicators being % population with internet connection, unemployment rate, education rate, and GDP. Global.R is how I processed and cleaned my data, ui.R is the user interface for the app and server.R is the backend. 
